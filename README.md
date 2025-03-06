@@ -44,8 +44,8 @@ Upon extracting `rLocal-LLM-Pomelo.zip`, you'll find the following structure:
 rLocal-LLM-Pomelo_Portable.zip
 ├── rLocal-LLM-Pomelo
 │   ├── app.R
-│   └── tessdata
-│       └── jpn.traineddata
+│   └── jpn.traineddata
+│       
 │
 ├── RunScripts
 │   └── run_rLocal-LLM-Pomelo.R
@@ -93,7 +93,7 @@ rLocal-LLM-Pomelo_Portable.zip
 ### File Upload & OCR
 
 - Supported file formats: `.txt`, `.csv`, `.pdf`, `.doc/.docx`, `.png`, `.jpg`
-- OCR via Tesseract is preconfigured (Japanese trained data included).
+- OCR via Tesseract is preconfigured (Japanese trained data included. If needed, please replace the Japanese data with other languge data).
 
 ### Retrieval-Augmented Generation (RAG)
 
