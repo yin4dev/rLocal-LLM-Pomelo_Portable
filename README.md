@@ -41,7 +41,7 @@ Key functionalities include:
 Upon extracting `rLocal-LLM-Pomelo.zip`, you'll find the following structure:
 
 ```
-rLocal-LLM-Pomelo.zip
+rLocal-LLM-Pomelo_Portable.zip
 ├── rLocal-LLM-Pomelo
 │   ├── app.R
 │   └── tessdata
