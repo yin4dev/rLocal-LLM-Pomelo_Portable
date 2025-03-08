@@ -9,6 +9,9 @@ The original **rLocal-LLM-Pomelo**:
 
 https://github.com/yin4dev/rLocal-LLM-Pomelo.git
 
+
+(This app is part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
+
 ---
 
 Welcome to **rLocal-LLM-Pomelo_Portable**! This packaged version allows users to run the Shiny application directly from a portable environment without needing to install R separately. Perfect for users who prefer plug-and-play solutions.
