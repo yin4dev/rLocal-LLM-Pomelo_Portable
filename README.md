@@ -10,7 +10,7 @@ The original **rLocal-LLM-Pomelo**:
 https://github.com/yin4dev/rLocal-LLM-Pomelo.git
 
 
-(This app is part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
+(This app is a part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
 
 ---
 
